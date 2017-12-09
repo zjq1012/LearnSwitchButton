@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwitchButton">
+        <attr name="enableShadowEffect"
+            format="boolean"/>
+        <attr name="unCheckedBgColor"
+            format="color|reference"/>
+        <attr name="checkedBgColor"
+            format="color|reference"/>
+        <attr name="borderWidth"
+            format="dimension"/>
+        <attr name="bgColor"
+            format="color|reference"/>
+        <attr name="hasIndicator"
+            format="boolean"/>
+        <attr name="indicatorUnCheckedColor"
+            format="color|reference"/>
+        <attr name="indicatorUnCheckedOffsetX"
+            format="dimension"/>
+        <attr name="indicatorUnCheckedLineWidth"
+            format="dimension"/>
+        <attr name="indicatorUnCheckedRadius"
+            format="dimension"/>
+        <attr name="indicatorCheckedColor"
+            format="color|reference"/>
+        <attr name="indicatorCheckedWidth"
+            format="dimension"/>
+        <attr name="indicatorCheckedHeight"
+            format="dimension"/>
+        <attr name="indicatorCheckedOffsetX"
+            format="dimension"/>
+        <attr name="circleBtnColor"
+            format="color|reference"/>
+        <attr name="circleBtnBorderColor"
+            format="color|reference"/>
+        <attr name="circleBtnBorderWidth"
+            format="dimension"/>
+    </declare-styleable>
+</resources>
